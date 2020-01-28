@@ -5,7 +5,7 @@ Mission Statement
 -----------------
 Many people have spend thousands on their Sonos systems.  With good reason because it's a great system.  It passed the 'Apple' test in that it 'just works'.
 
-In January 2020, Sonos announced that some of the products would be obsoleted and would stop working.  But much more than that, any systems with those obsolete components in would stop working.  This is a terrible descision.  The functionally identical equivalents cost hundreds.  Sonos quicky undertook some spin and backpedalled part of their abbouncement, but they didn't undo it - they just watered it down.
+In January 2020, Sonos announced that some of the products would be obsoleted and would stop working.  But much more than that, any systems with those obsolete components in would stop working.  This is a terrible descision.  The functionally identical equivalents cost hundreds.  Sonos quicky undertook some corporate spin and backpedalled part of their announcement, but they didn't undo it - they just watered it down.
 
 This has caused many to wonder if another way is possible?  this project may never write a line of code but it has lofty, but simple goals:
 
@@ -31,7 +31,7 @@ timing different speakers playing the same thing.
 
 Moral Problems
 --------------
-Sonos is a propriatary platform.  They may not appreciate reverse engineering their hardware.  Maybe they have legal protection.  If the hardware reverse engineering sub-project is sucessful, then an even trickier problem is what to do with units in recycle mode?  The moral problem is that the owners of these units have received discounts off new hardware in return for bricking the old ones.  Sonos will argue that they should not and must not work.
+Sonos is a propriatary platform.  They may not appreciate reverse engineering their hardware.  Maybe they have legal protection.  If the hardware reverse engineering sub-project is sucessful, then an even trickier problem is what to do with units in recycle mode?  The moral problem is that the owners of these units have received discounts off new hardware in return for bricking the old ones.  Sonos will argue that they should not and must not work.  If we get as far as dumping flash from a working sonos unit, can we return a   
 
 
 TurboTas January 2020
