@@ -38,4 +38,9 @@ http://192.168.1.10:1400/jffs/upgrade_prev.log
 http://192.168.1.10:1400//diag/cgi-bin/bin/echo%20yes%20we%20can
 
 
-using nmap on the device also finds port 1443 open and this seems to respond to the same requests as the 1400 port.
+using nmap on the device also finds port 1443 open and this seems to respond to the same requests as the 1400 port. prompt implies that this is also the upnp port.
+
+Other open ports: tcp\1410, tcp\1843, tcp\1443, tcp\1400
+
+
+
