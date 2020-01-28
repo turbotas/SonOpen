@@ -8,15 +8,23 @@ Armed with this information, you can start snooping about each unit using a bros
 Works, as at Jan 2020
 ---------------------
 http://192.168.1.10:1400/status
+
 http://192.168.1.10:1400/status/zp
+
 http://192.168.1.10:1400/status/enetports
+
 http://192.168.1.10:1400/status/VERSION
+
 http://192.168.1.10:1400/status/proc/ath_rincon/status
+
 http://192.168.1.10:1400/status/ifconfig
+
 http://192.168.1.10:1400/status/showstp
 
 These ones found online but seem not to work
 --------------------------------------------
 http://192.168.1.10:1400/status/jffs/upgrade.log
+
 http://192.168.1.10:1400/jffs/upgrade_prev.log
+
 http://192.168.1.10:1400//diag/cgi-bin/bin/echo%20yes%20we%20can
