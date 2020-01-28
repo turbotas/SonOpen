@@ -29,4 +29,9 @@ Hard problems
 Running custom firmware on Sonos
 timing different speakers playing the same thing.
 
+Moral Problems
+--------------
+Sonos is a propriatary platform.  They may not appreciate reverse engineering their hardware.  Maybe they have legal protection.  If the hardware reverse engineering sub-project is sucessful, then an even trickier problem is what to do with units in recycle mode?  The moral problem is that the owners of these units have received discounts off new hardware in return for bricking the old ones.  Sonos will argue that they should not and must not work.
+
+
 TurboTas January 2020
